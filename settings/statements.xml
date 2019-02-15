@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+// 
+// This is the place for your statements. The maximum 
+// number of statements is theoretically unlimited, but
+// less then 50 statements are advisable.
+// If your are using German Umlauts and other special 
+// characters, make sure, that you save this XML-file 
+// as an UTF-8-document. White-space inbetween the 
+// nodes are ignored. Any white-space within the text-
+// nodes, including leading or trailing whitespace and 
+// line breaks, is preserved.
+//
+// EXAMPLE
+// Let's define some statements concerning FlashQ:
+// Statement 1: FlashQ is very usefull.
+// Statement 2: I prefer offline surveys.
+// Statement 3: FlashQ is too complicated to configure.
+//
+// Each statement requires a seperate statement-node 
+// consisting out of an opening and a closing tag. The 
+// statement itself goes between this two tags. 
+// The unique statement id is saved as an 
+// attribute called 'id'. We have three exmaple 
+// statements and we need therefore three statement-
+// nodes and one parent-node. 
+//
+// <statements version="1.0" htmlparse="false">
+//   <statement id="1">FlashQ is very usefull.</statement>
+//   <statement id="2">I prefer offline surveys.</statement>
+//   <statement id="3">FlashQ is too complicated to configure</statement>
+// </statements>
+// 
+// ===================================================
+// 
+-->
+
+<statements version="1.0" htmlParse="false">
+  <statement id="1">I prefer "the option to help me complete the training via Facebook, Twitter, or email".</statement>
+  <statement id="2">I prefer "the option to share my progress via Facebook, Twitter, or email".</statement>
+  <statement id="3">I prefer "the option to share my progress via Facebook without prompting".</statement>
+  <statement id="4">I prefer "the option to compare my latest record with my friends' records".</statement>
+  <statement id="5">I prefer "the virtual coach to instruct me how to perform the movements".</statement>
+  <statement id="6">I prefer "the image instruction on how to perform the movements".</statement>
+  <statement id="7">I prefer "the option to show a historical analysis of my records and progress".</statement>
+  <statement id="8">I prefer "the option to keep a record of outcomes after workout (i.e. calories burned or miles walked)"".</statement>
+  <statement id="9">I prefer "the option to see my heart rate during and after the workout".</statement>
+  <statement id="10">I prefer "the option to set up goals of my workout".</statement>
+  <statement id="11">I prefer "the option of personal training diary and metrics about whether I met previously set goals".</statement>
+  <statement id="12">I prefer "the option to notify me when, where, or how to complete the workout".</statement>
+  <statement id="13">I prefer "the graph showing the discrepancy between current progress and the goal".</statement>
+  <statement id="14">I prefer "the alert to prompt me to perform the target workout".</statement>
+  <statement id="15">I prefer "the alert to inform me that the target goal has been expired".</statement>
+  <statement id="16">I prefer "the option to show up my previous accomplished goal each time when I start a new session".</statement>
+  <statement id="17">I prefer "the option to talk with myself regarding the goal and progress".</statement>
+  <statement id="18">I prefer "the option to ask me to increase the number of workouts when I completed previous session".</statement>
+  <statement id="19">I prefer "the unscheduled alerts prompt me to perform and practice the target workout".</statement>
+  <statement id="20">I prefer "the video from a professional addressing the importance of performing a certain type of exercise".</statement>
+  <statement id="21">I prefer "the option to explain the pros and cons of target workout".</statement>
+  <statement id="22">I prefer "the motivational encouragement from the virtual coach after completing a workout".</statement>
+  <statement id="23">I prefer "the option to earn a reward for each workout session achieved".</statement>
+  <statement id="24">I prefer "the gift card after I complete the session".</statement>
+  <statement id="25">I prefer "the instruction describing the outcomes of target workout".</statement>
+  <statement id="26">I prefer "the instruction illustrating the emotional benefits of target workout".</statement>
+  <statement id="27">I prefer "the instruction illustrating the emotional benefits of reducing stress and anxiety".</statement>
+  <statement id="28">I prefer "the instruction telling the users not to run and just stay in front of the TV without excercise".</statement>
+  <statement id="29">I prefer "the option showing deducted points when I don't complete a scheduled workout".</statement>
+  <statement id="30">I prefer "the special reward at specific time but not at other times in the day".</statement>
+  <statement id="31">I prefer "the option that I can encourge myself with positive self talk".</statement>
+  <statement id="32">I prefer "the option describing the meditation workout like yoga as an howling exercise".</statement>
+  <statement id="33">I prefer "the other user's success story who runs 10K in half an hour".</statement>
+  <statement id="34">I prefer "the other user's failiure story who quit running excercise".</statement>
+  <statement id="35">I prefer "the instruction to encourge me to get up early morning for workout".</statement>
+  <statement id="36">I prefer "the instruction to encourge me to join the workout club with friends".</statement>
+</statements>
