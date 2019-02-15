@@ -63,5 +63,5 @@
       <item id="submitUrlMethod">firebase</item>
 
       <!-- data transmission via email, user must have an e-mail programm like Outlook (leave blank if not required) -->
-      <item id="submitMail">yourdomain.com</item>
+      <item id="submitMail">jlim13@uncc.edu</item>
    </config>
