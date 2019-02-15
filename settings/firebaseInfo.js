@@ -1,11 +1,11 @@
 // Initialize Firebase
-var config = {
-	apiKey: "AIzaSyBQyaM5Bz692gXFmvlVHYs37jjshoVaExw",
-    authDomain: "testq-e5302.firebaseapp.com",
-    databaseURL: "https://testq-e5302.firebaseio.com",
-    projectId: "testq-e5302",
-    storageBucket: "testq-e5302.appspot.com",
-    messagingSenderId: "511351722874"
-};
-firebase.initializeApp(config);
+  var config = {
+    apiKey: "AIzaSyCzw3888k__wGBlmLUae6YQH1o1GYVaZKw",
+    authDomain: "newagent-c6a44.firebaseapp.com",
+    databaseURL: "https://newagent-c6a44.firebaseio.com",
+    projectId: "newagent-c6a44",
+    storageBucket: "newagent-c6a44.appspot.com",
+    messagingSenderId: "73123995816"
+  };
+  firebase.initializeApp(config);
 var rootRef = firebase.database().ref();
