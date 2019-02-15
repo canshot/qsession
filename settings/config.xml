@@ -47,8 +47,12 @@
       <!-- optional attributes: bg, id, maxlength, restricted, required, scale  -->
       <item id="form">
 
+         <label>Your UNCC email*</label>
+         <note>Please enter your UNCC email address.</note>
+         <input type="text" required="true"></input>
+         
          <label>Your first name*</label>
-         <note>Please enter your first name that you have typed in the first survey.</note>
+         <note>Please enter your first name.</note>
          <input type="text" required="true"></input>
          
          <label>Any comments</label>
