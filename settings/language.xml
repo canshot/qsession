@@ -49,8 +49,8 @@
   <item id="errorWindowTooSmall">Please maximize your browser for using this application.</item>
 
   <!-- welcome screen (leave blank to skip screen) -->
-  <item id="welcomeHead">Welcome to Mobile Fitness App Study!</item>
-  <item id="welcomeText">For the survey, you are highly recommended to use desk top computer, not mobile devices.{br}{br}Comments and bug reports are highly welcome - jlim13@uncc.edu{br}{br}Click on the continue button.</item>
+  <item id="welcomeHead">Welcome to Gamification & Mobile Fitness App Study!</item>
+  <item id="welcomeText">Click on the continue button.</item>
 
   <!-- user login, only displayed if access is restricted (see config-file) -->
   <item id="loginHead">User code</item>
